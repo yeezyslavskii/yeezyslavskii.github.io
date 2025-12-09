@@ -16,7 +16,7 @@ body {
 
 /* Шапка */
 header {
-    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+    background: lightblue;
     color: white;
     text-align: center;
     padding: 2rem;
@@ -129,4 +129,5 @@ footer p {
     main {
         padding: 0 10px;
     }
+
 }
